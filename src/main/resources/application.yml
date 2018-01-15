@@ -1,0 +1,8 @@
+mongodb:
+  database.name: security
+  collection.name: users
+
+logging:
+  level:
+    ROOT: INFO
+    com.andersen: DEBUG
